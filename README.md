@@ -23,7 +23,20 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 A Engenharia de Requisitos é o processo sistemático de identificação, documentação, validação e gestão dos requisitos de um sistema. Envolve a comunicação eficaz entre stakeholders, analistas e desenvolvedores para compreender as necessidades do cliente e traduzi-las em requisitos claros e precisos para o desenvolvimento de software. O objetivo principal da Engenharia de Requisitos é garantir que o produto final atenda às expectativas e necessidades dos usuários, dentro dos prazos e orçamentos estabelecidos.
 ![image](https://github.com/heitorgulde/aulaMarkdown/assets/164904436/d5a21700-1109-4c83-b04f-f791a4e62d88)
 
-
 <img src="https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg" width="508px">
+______________________________________________________________________
+
+| Característica     | Abordagem A          | Abordagem B        |
+|-------------------|----------------------|--------------------|
+| Custo             | $5000                | $7000              |
+| Facilidade de uso | Fácil de implementar  | Requer treinamento |
+| Tempo de implantação | 2 semanas          | 1 mês              |
+| Requisitos de hardware | Baixos           | Elevados           |
+| Manutenção        | Baixa                | Alta               |
+| Flexibilidade     | Limitada             | Alta               |
+| Escalabilidade    | Limitada             | Alta               |
+
+https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering
+https://welcome.atlasgov.com/blog/ciberseguranca/engenharia-social/
 
 
