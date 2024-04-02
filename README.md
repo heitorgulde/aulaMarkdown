@@ -19,7 +19,7 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
-+.A Engenharia de Requisitos é um campo crucial no desenvolvimento de software, pois ajuda a garantir que os produtos desenvolvidos atendam às necessidades e expectativas dos usuários finais. Aqui estão algumas sugestões de tópicos que você pode explorar em sua pesquisa descritiva sobre Engenharia de Requisitos: Definição e Conceitos Fundamentais, Processo de Engenharia de Requisitos, Técnicas de Elicitação de Requisitos, Modelagem de Requisitos, Gerenciamento de Requisitos, Desafios e Tendências, Estudos de Caso
+A Engenharia de Requisitos é um campo crucial no desenvolvimento de software, pois ajuda a garantir que os produtos desenvolvidos atendam às necessidades e expectativas dos usuários finais. Aqui estão algumas sugestões de tópicos que você pode explorar em sua pesquisa descritiva sobre Engenharia de Requisitos: Definição e Conceitos Fundamentais, Processo de Engenharia de Requisitos, Técnicas de Elicitação de Requisitos, Modelagem de Requisitos, Gerenciamento de Requisitos, Desafios e Tendências, Estudos de Caso
 A Engenharia de Requisitos é o processo sistemático de identificação, documentação, validação e gestão dos requisitos de um sistema. Envolve a comunicação eficaz entre stakeholders, analistas e desenvolvedores para compreender as necessidades do cliente e traduzi-las em requisitos claros e precisos para o desenvolvimento de software. O objetivo principal da Engenharia de Requisitos é garantir que o produto final atenda às expectativas e necessidades dos usuários, dentro dos prazos e orçamentos estabelecidos.
 ![image](https://github.com/heitorgulde/aulaMarkdown/assets/164904436/d5a21700-1109-4c83-b04f-f791a4e62d88)
 
@@ -36,7 +36,9 @@ ______________________________________________________________________
 | Flexibilidade     | Limitada             | Alta               |
 | Escalabilidade    | Limitada             | Alta               |
 
-https://www.kaspersky.com.br/resource-center/definitions/what-is-social-engineering
-https://welcome.atlasgov.com/blog/ciberseguranca/engenharia-social/
+
+## Sites para você pesquisar.
+[engenharia de requisitos](https://www.monitoratec.com.br/blog/engenharia-de-requisitos/)
+
 
 
